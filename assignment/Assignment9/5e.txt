@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog.
+C++ streams handle input and output efficiently.
+Learning by doing is better than just reading.
+File handling allows persistent data storage.
+Always debug your code step by step.
+Consistency beats motivation in the long run.
+Errors are proof that you are trying.
+Keep your logic clear and your syntax clean.
+Practice daily to master programming concepts.
+Small improvements every day lead to big results.
